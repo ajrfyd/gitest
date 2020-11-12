@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 So fucking Hard.....
+=======
+hello Git??
+>>>>>>> aa87ec81d2e6ff9fd5200f521cbe64b6a04917af
